@@ -43,10 +43,13 @@ This capstone project provides an in-depth analysis of High Cloud Airlines, aimi
 7) Identify number of flights based on Distance group.
 
 🔎Key Findings:
-1) Load factor shows how well an airline is filling its seats compared to competitors. Airlines use it to see where they stand in the market.
-2) Airlines rely on load factor for planning routes, managing fleets, and making other strategic decisions.
-3) In this analysis, 2013 had the highest load factor (17.40%), while 2009 had the lowest (15.66%). A higher load factor generally helps an airline make more money.
-4) If an airline operates with a low load factor for too long, it can lose money. A high load factor usually boosts profits.
-5) Delta Airlines has the highest load factor at 19.60%, with 28,837K transported passengers. Southwest Airlines transported 34,108K transported passengers with an 18.92% load factor.
-6) Airlines with high load factors are seen as efficient and good at using their capacity to earn revenue.
-7) Passengers often link busy flights with popular routes and may prefer airlines with higher load factors, seeing them as more reliable.
+1) Load factor shows how well an airline is filling its seats compared to competitors. Airlines use it to see where they stand in the market. Airlines rely on load factor for planning routes, managing fleets, and 
+   making other strategic decisions.
+2) In Yearly analysis, 2013 had the highest load factor (78.12%), while 2008 had the lowest (75.30%). A higher load factor generally helps an airline make more money.
+3) With respect to the Carrier names, Globespan Airways has the highest Average of load factor(90.10%).If an airline operates with a low load factor for too long, it can lose money.
+4) Southwest Airlines CO. is the most prefferred Airline with overall 336498 transported passenger.
+5) With respect to the (from-to-city) Chicago, IL - Detroit, MI finds to be the most busiest route with 95 number of flights.
+6) Comparatively, Weekend shows 76.93% of load factor and weekday shows 76.73% Load factor which means the airline is using its resources more efficiently and generating more revenue during weekends.  
+7) Among all yhe distance groups, the distance group of Less Than 500 Miles of distance interval has the highest number of flights (58047) and the distance group of 10000-10499miles of distance interval has the 
+   lowest number of flight(1)
+8) Passengers often link .busy flights with popular routes and may prefer airlines with higher load factors, seeing them as more reliable.
